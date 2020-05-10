@@ -21,6 +21,4 @@ body {font-family: Arial, Helvetica, sans-serif;}
     -ms-transform: translate(-50%, -50%);
     transform: translate:(-50%,-50%);
     mix-blend-mode:screen;
-    margin-right: 4rem;
-    margin-left: 20px;
 }
