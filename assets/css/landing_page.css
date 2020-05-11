@@ -49,3 +49,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 .flip-box-back{
     transform: rotateY(180deg);
 }
+.about{
+    background-color: #fffff0;
+    
+}
