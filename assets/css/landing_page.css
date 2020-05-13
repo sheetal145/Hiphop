@@ -37,7 +37,7 @@ body {font-family: sans-serif;}
         left: 50%; /* Position text in the middle */
         transform: translate(-50%, -50%); /* Position text in the middle */
         mix-blend-mode: screen;
-        transform: rotateY(180deg);
+        transform: rotateX(180deg);
 }
 
 .flip-card{
