@@ -5,7 +5,7 @@
     min-width: 100%;
     max-width: 100%;
 }
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: sans-serif;}
 .text{
     background-color: #F8F8F8;
     color: 	#282828;
@@ -22,7 +22,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
     bottom: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%,-50%);
-    mix-blend-mode: multiply;
+    mix-blend-mode: screen;
 }
 .flip-box{
     perspective: 1000px;
