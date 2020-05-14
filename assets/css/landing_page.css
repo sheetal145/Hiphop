@@ -1,10 +1,9 @@
 #myvideo{
     position: absolute;
-    right: 0;
-    bottom: 0;
+
     margin: none;
     padding: none;
-    max-width: 100%;
+    min-height: 100%;
     min-width: 100%;
 }
 body {font-family: sans-serif;}
